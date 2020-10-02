@@ -2,6 +2,7 @@
 Sistema de CRUD simples em python.
 Autor: Stefany Izidio.
 Github: https://github.com/Stefanyvitoria
+Email: Stefanyvitoria9307@gmail.com
 """
 #Importação dos módulos
 import dbm
