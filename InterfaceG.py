@@ -1,4 +1,4 @@
-import tkinter
+import tkinter, crud_functions, main
 
 class crud():
     def __init__(self):
